@@ -1,9 +1,0 @@
-Assignment 3 Questions
-1. Provide three websites that you enjoy visiting?
-https://moodle.umt.edu , https://www.netflix.com , https://www.hbomax.com
-2. What is the relationship between an IP address and the DNS?
-The IP is the individual computer or devices "home address" made up of digits. The domain name service is used to look up the home addresses which is used to connect our computers with the destination we are looking for. 
-3. What is a cookie?
-It's a piece of data that's stored on our computers by the browser and websites we visit.
-4. List the three essential parts of a URL.
-Protocol, domain and paths
