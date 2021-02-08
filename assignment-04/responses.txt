@@ -1,0 +1,3 @@
+Browsers function as rendering engines. They download a web page and render it as functional and understandable. I predominately use Safari these days, but have used Chrome, Firefox and Internet Explorer.
+
+Markup is the text and dictates the page's architecture. The most common form of Markup is HTML.
