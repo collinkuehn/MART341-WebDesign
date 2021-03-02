@@ -1,0 +1,2 @@
+I use forms everyday to sign in and out of moodle, and all other umt functions. I use them to login into my secured accounts on the sites.
+Text functions are again the same sort of forms I use to sign into accounts. Some common selections I see are the "choose this pattern" to prove you're not a robot. The upload button is one of the most common ones I use. Here in a few minutes I'll use it to upload my links.

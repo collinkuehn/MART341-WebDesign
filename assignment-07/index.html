@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="Assignment 7 for MART 341, Intro to Web Design">
+  <meta name="author" content="Collin Kuehn">
+  <meta name="viwport" content="width=device-width, initial scale=1.0">
+<title>Assignment 7</title>
+</head>
+
+<body>
+  <h1>Wally & Buck</h1>
+  <img src="./images/wallybuck.png" alt="The Wally and Buck circular logo" title="Wally and Buck" width="200" height="200" />
+<hr></hr>
+  <address>
+    319 E Front St,
+    Missoula, MT
+    59802 <br />
+    406-549-8157
+
+<a href="mailto:wallyandbuck@wallyandbuck.com">wallyandbuck@wallyandbuck.com</a>
+<hr></hr>
+
+<table style="width:100%">
+<style>
+ table, th, td {border: 1px solid black;}
+ </style>
+  <tr>
+    <th>Days</th>
+    <th>Hours</th>
+  </tr>
+  <tr>
+    <td>Monday</td>
+    <td>Closed</td>
+
+  </tr>
+  <tr>
+    <td>Tuesday</td>
+    <td>4:00 PM - 9:00 PM</td>
+  </tr>
+  <tr>
+    <td>Wednesday</td>
+    <td>4:00 PM - 9:00 PM</td>
+  </tr>
+  <tr>
+    <td>Thursday</td>
+    <td>4:00 PM - 9:00 PM</td>
+  </tr>
+  <tr>
+    <td>Friday</td>
+    <td>4:00 PM - 9:00 PM</td>
+  </tr>
+  <tr>
+    <td>Saturday</td>
+    <td>4:00 PM - 9:00 PM</td>
+  </tr>
+  <tr>
+    <td>Sunday</td>
+    <td>Closed</td>
+  </tr>
+</table>
+
+<form action="http://www.wallyandbuck.com/login.php" method="post" id="sign-in" class="basic-forms">
+<p>
+  Username:
+    <input type="text" name="username" id="username_input" placeholder="Wally"/>
+    <p>
+    Password:
+  <input type="password" name="password" id="test-password" placeholder="Buck" />
+</p>
+<p>
+    Comments:
+    <textarea name="comments" id="test-textarea">Tell us how we did!</textarea>
+</p>
+<p>Favorite Burger:</p>
+  <select name="home_state">
+    <option value="Wally">Wally</option>
+    <option value="OG">OG</option>
+    <option value="Rotator">Rotator</option>
+    <option value="Juvenile">Juvenile</option>
+  </select>
+
+<p><input type="submit" name="submit" value="Submit" /></p>
+</form>
