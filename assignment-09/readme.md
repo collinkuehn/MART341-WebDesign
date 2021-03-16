@@ -6,6 +6,7 @@
 UPDATE: Navigation did not work but I think I figured it out. Once again will update if not.
 UPDATE 2: I don't know where I'm going wrong here. I've tried adding them to a folder to get the link directory. And that seemed to get rid of my images. I tried removing the .html in the nav link, that didn't work.
 UPDATE 3: Putting the .html in a pages folder directs me to the readme when trying the link on Github.
+UPDATE 500: I don't know what is going on.. When I click the links from the index site it will take me to the other pages, but when I click the links from the other sites, I get an error. I'm going to run out of time here so I'm going to submit it as is and email you for advice so I can at least go in and fix it tomorrow. 
 
 2. Next module we continue with CSS and expand on styling, which helps us "decorate" HTML. Is there anything you're anxious or excited to learn about in this new section?
 
