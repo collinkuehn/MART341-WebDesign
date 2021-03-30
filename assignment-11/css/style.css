@@ -1,0 +1,98 @@
+/* Style Sheet */
+body{
+  background-color: #b9e5fa;
+}
+
+section {
+   width: 300px;
+   height: 300px;
+   background-color: white;
+   border-radius: 50%;
+   margin: auto;
+   margin-bottom: -170px;
+}
+
+div{
+  text-align: left;
+  line-height: 2em;
+  font-family: 'Merriweather', Georgia,  sans-serif;
+  position: absolute;
+  margin-bottom: 10px;
+  padding: 5px;
+}
+
+h1, h2,h3, h4{
+  text-align: center;
+  font-family: 'Arial', Helvetica, sans-serif;
+  position: relative;
+  bottom: -105px;
+}
+
+h1{
+  color: #000b5c;
+}
+
+h2{
+  color: #820900;
+  font-size: 15px;
+}
+
+h3{
+  color: #000b5c;
+  font-size: 15px;
+}
+
+h4{
+  color: black;
+  font-size: 25px;
+  font-style: italic;
+  font-weight: lighter;
+  position: relative;
+  bottom: -165px;
+}
+
+h5{
+  color: black;
+  font-size: 15px;
+  font-style: italic;
+  font-weight: lighter;
+  text-align: center !important;
+  position: relative;
+  bottom: -165px;
+}
+
+p {
+  font-family: 'Merriweather', Georgia, sans-serif;
+  font-size: 15px;
+  position: relative;
+  bottom: -120px;
+}
+
+ p::first-line {
+   font-weight:bolder;
+ }
+
+ p::first-letter {
+   font-size: 2em;
+   margin: .1em;
+ }
+
+ .main {  text-align: left;
+   line-height: 2em;
+   font-family: 'Merriweather', Georgia,  sans-serif;
+   position: absolute;
+   margin-bottom: 10px;
+   padding: 5px;
+ }
+
+ a:link {text-align: center !important;
+   line-height: 2em;
+   font-family: 'What', Merriweather , Georgia,  sans-serif;
+   position: absolute;
+   margin-bottom: 10px;
+   padding: 5px;
+ }
+ a:hover {
+   font-size: 30px;
+   color: red;
+ }
