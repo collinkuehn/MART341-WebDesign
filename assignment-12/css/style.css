@@ -1,0 +1,95 @@
+div{
+    text-align: left;
+    line-height: 1.45em;
+    font-family: Merriweather, sans-serif;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+body{
+  background-color: #c3fae7;
+}
+
+h1, h3, h5{
+    text-align: center;
+    font-family: Merriweather, sans-serif;
+    color: #24a379;
+    font-size: 40px;
+    margin-top: 100px;
+}
+h3 {
+    text-align: center;
+    font-family: Merriweather, sans-serif;
+    font-size: 20px;
+    margin-top: 50px;
+}
+.opening-paragraph{
+    color: black;
+    font-size: 16px;
+    text-indent: 0px;
+    margin-left: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.opening-paragraph::first-line{
+    font-size: 20px;
+    font-weight:700;
+}
+.second-paragraph{
+    font-size: 16px;
+}
+
+img{
+  border: solid 15px  #02422c;
+  margin: 10px;
+}
+p{
+    font-family:  Merriweather, sans-serif;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+header {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    background-color: #02422c;
+    font-family: Merriweather;
+    text-transform: uppercase;
+    margin-top: 0;
+    height: 4em;
+    width: 100%;
+    text-align: left;
+}
+
+
+.menu-item {
+    display: inline-block;
+    margin: 1em .2em;
+    min-width: 6em;
+    text-align: center;
+    background-color: #02422c;
+    padding: 0.5em 1em;
+}
+
+.menu-item a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.menu-item:hover {
+    background-color: #24a379;
+
+}
+
+
+
+.mainimage{
+    float: left;
+}
+
+.bookcover{
+    float:right;
+}

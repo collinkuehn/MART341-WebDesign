@@ -1,0 +1,5 @@
+What is the difference between padding, margin, and borders?
+-Padding provides a space between the text or object and other elements in on the page so it isn't directly smooshed (is that a word?) next to each other. Padding also creates spacing between the elements and the border of an element. Margins do the same thing but they provide a padding from the outer edge of a border and not the inner edge. For example if I wanted a solid color border around an image to make it look more cohesive with the page I'd add a margin to put space between the edge of the border and the text on the page. If I added padding the border wouldn't sit flush around the image it would put space between the image and the border. Borders are ways to stylize elements. They encase either the words or images and can be used to tie things together.
+
+Free Response: Discuss any challenges you had this week and how you overcame them.
+-I didn't really understand margins or padding until this week and now I think I have a bit more of a grasp on it. I've been using padding when I should be using margins. 
